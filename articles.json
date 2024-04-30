@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "title": "10 порад для вивчення програмування",
+      "author": "Іван",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et eros at lacus sollicitudin convallis vel ac turpis."
+    },
+    {
+      "id": 2,
+      "title": "Як стати веб-розробником",
+      "author": "Марія",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et eros at lacus sollicitudin convallis vel ac turpis."
+    }
+  ]
+  
