@@ -59,5 +59,5 @@ app.post('/contact', (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Сервер працює на порті ${PORT}`);
+  console.log(`Сервер працює на порті http://localhost:${PORT}`);
 });
